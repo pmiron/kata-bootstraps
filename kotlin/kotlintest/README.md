@@ -17,9 +17,9 @@ To execute the tests run `gradle test` or run the tests from the IDE you are usi
 
 
 ## Optimized for Usage of
-- Kotlin 1.1
-- Gradle 3.4
-- IntelliJ Idea 2017
+- Kotlin 1.3.31
+- Gradle 5.4.1
+- IntelliJ Idea 2019
 
 It might work with other setups, but that is not tested. Pull requests welcome!
 
